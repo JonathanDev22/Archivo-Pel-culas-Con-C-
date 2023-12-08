@@ -1,0 +1,48 @@
+Vengadores EndGame
+pelicula
+210
+disney
+endgame.jpg
+2019
+Guardianes de la Galaxia
+pelicula
+230
+cines
+guardianes.jpg
+2014
+Wakanda forever
+pelicula
+240
+amazonTV
+wakanda.jpg
+2022
+Elysium
+pelicula
+150
+hbo
+elysium.jpg
+2013
+Transporter
+pelicula
+120
+televisión
+transporter.jpg
+2008
+The Gentlemen
+pelicula
+150
+hbo
+thegentlemen.jpg
+2019
+Los 100
+Serie
+120
+netflix
+los100.jpg
+2014
+The Vampire Diaries
+Serie
+45
+HBO Max
+vampires.jpg
+2009

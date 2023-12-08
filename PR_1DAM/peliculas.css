@@ -1,0 +1,89 @@
+
+body{
+	text-align: center;
+	background-image: url(imagenes/fondo.jpg);
+
+}
+.contenedorPrincipal{
+	width: 1000px;
+	border: solid ;
+	margin: auto;
+	margin-bottom: 60px;
+	box-shadow: black 0px 25px 80px;
+}
+
+.contenedorrepetir{
+	margin: 80px;
+	align-items: center;
+	width: auto;
+	height: 120px;
+	background-image: url(imagenes/film.png);
+	background-repeat: repeat-x;
+
+
+}
+.titulo{
+	font-family: fantasy;
+	text-transform: uppercase;
+	color: darkblue;
+	text-align: center;
+	font-size: 80px;
+	text-shadow: skyblue 0px -1px 50px, black 0px -10px 20px , black 6px -5px 2px;
+}
+span{
+	font-size: 100px;
+	text-shadow: darkblue 0px -1px 50px;
+}
+
+.contenedor , .contenedorw ,.contenedorE ,.contenedorT ,.contenedorT ,.contenedorG{
+	margin: auto;
+	margin-bottom: 40px;
+	width: 400px;
+	background-color: burlywood;
+	box-shadow: red 0px -8px 30px, skyblue 0px -10px 40px, darkblue 0px 5px 80px, darkorange 0px -11px 40px
+
+}
+.contenedorw{
+	
+	box-shadow: black 0px -20px 30px , red 0px -40px 40px , black 0px 10px 80px;
+}
+.contenedorE{
+	
+	box-shadow: white 0px -20px 30px , blue 0px -40px 40px , black 0px 10px 80px ;
+}
+
+.contenedorT{
+	
+	box-shadow: red 0px -20px 30px , orange 0px -40px 40px , black 0px 10px 80px ;
+
+}
+
+.contenedorG{
+	
+	box-shadow: white 0px -20px 30px , gold 0px -40px 40px , goldenrod 0px 10px 80px ;
+
+}
+
+.fotoPrincipal{
+	margin: 30px;
+	box-shadow: papayawhip 6px -20px 30px;
+	width: 350px;
+	
+
+}
+
+.fotos{
+	margin: 30px;
+	box-shadow: papayawhip 6px -20px 30px;
+	width: 250px;
+	height: 300px;
+
+}
+
+.datos{
+	margin: 0px;
+	margin-bottom: 10px;
+	color: darkcyan;
+	font-size: 20px;
+	font-weight: bold;
+}
